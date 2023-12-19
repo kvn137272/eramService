@@ -19,7 +19,7 @@ export default {};
 <style lang="scss">
 .headerNavParent {
   a {
-    @apply mx-3 text-center font-bold text-greyText hover:text-black;
+    @apply mx-3 text-center font-bold text-greyText-200 hover:text-black;
   }
 }
 </style>

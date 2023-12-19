@@ -1,11 +1,11 @@
 * {
-  font-family: kalameh,'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  font-family: yekan,'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   box-sizing: border-box;
 }
 @font-face {
   font-family: yekan;
-  src: url("../../fonts/KALAMEHREGULAR.ttf");
+  src: url("../../fonts/Yekan.ttf");
 }
 :root {
-  background-color: theme("colors.midBlue");
+  background-color: theme("colors.blueColor.100");
 }
