@@ -13,6 +13,7 @@ export default {
     extend: {
       colors: {
         whiteColor:{
+          50:"#E7E7E7",
           100:"#FAFAFA"
         },
         blueColor: {
