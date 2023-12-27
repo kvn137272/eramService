@@ -1,8 +1,8 @@
 <template>
-  <section class="px-12 h-96 mt-20">
+  <section class="px-12  mt-20 py-28 ">
     <div class="theBrands-title">
       <h2 class="text-2xl font-extralight text-center">
-        خرید بر اساس <span class="text-blueColor-500">برترین برند ها</span>
+        خرید بر اساس <span class="text-blueColor-500">برترین برند ها</span> 
       </h2>
     </div>
 

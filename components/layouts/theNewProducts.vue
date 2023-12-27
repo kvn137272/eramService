@@ -28,7 +28,7 @@
           </div>
           <img
             src="../../assets/images/iphone15.svg"
-            class="object-fill lg:w-64  sm:h-64 sm:w-32 xs:h-52 mx-auto mt-9"
+            class=" xl:w-72 lg:w-64  sm:h-64 sm:w-32 xs:h-52 mx-auto mt-9"
           />
         </div>
         <div></div>
@@ -75,7 +75,7 @@
       >
         <img
           src="../../assets/images/macBookAir.png"
-          class="rounded-3xl absolute  xl:bottom-[-10px]  lg:bottom-3  z-10 xl:w-64 xl:h-56 lg:w-36 lg:h-28  md:w-52 sm:w-48 xs:w-48  xs:left-[50%] xs:translate-x-[-50%] sm:bottom-0 xs:bottom-0"
+          class="rounded-3xl absolute  xl:bottom-[-10px] xl:visible lg:invisible    z-10 xl:w-64 xl:h-56   md:w-52 sm:w-64 xs:w-48  xs:left-[50%] xs:translate-x-[-50%] sm:bottom-0 xs:bottom-0"
           alt="mac book air"
         />
         <h4 class="mb-3 text-sm text-right text-greyColor-100">مک بوک</h4>
@@ -95,7 +95,7 @@
       >
         <img
           src="../../assets/images/iPadPro.png"
-          class="rounded-3xl absolute left-3 z-10 xl:h-36 xl:w-36 lg:h-28 lg:w-32 md:w-52 md:h-48 sm:h-40 xs:h-32  xl:left-20 lg:bottom-3  md:bottom-3 xs:left-[50%] xs:translate-x-[-50%] sm:bottom-10 xs:bottom-0"
+          class="rounded-3xl absolute left-3 z-10 xl:visible lg:invisible  xl:h-36 xl:w-36 lg:h-24 lg:w-28 md:w-52 md:h-48 sm:h-56 xs:h-32  xl:left-20 lg:bottom-3  md:bottom-3  xs:left-[50%] xs:translate-x-[-50%] sm:bottom-10 xs:bottom-5"
           alt="mac book air"
         />
 
@@ -134,6 +134,6 @@
 }
 
 .newProducts-main {
-  @apply grid xl:grid-cols-6 xl:grid-rows-6 gap-3 lg:grid-cols-9  md:grid-cols-10 md:grid-rows-2 sm:grid-cols-10 sm:grid-rows-4 xs:grid-rows-none xs:grid-cols-none;
+  @apply grid xl:grid-cols-6 xl:grid-rows-6 gap-3 lg:grid-cols-9 lg:grid-rows-2  md:grid-cols-10 md:grid-rows-3 sm:grid-cols-10 sm:grid-rows-5 xs:grid-rows-none xs:grid-cols-none;
 }
 </style>
