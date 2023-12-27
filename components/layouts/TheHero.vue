@@ -110,7 +110,7 @@
         .left-parts-content {
           @apply text-right  xs:w-full ;
           p {
-            @apply text-sm font-light text-greyText-100;
+            @apply text-sm font-light text-greyColor-100;
           }
         }
       }

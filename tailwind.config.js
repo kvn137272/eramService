@@ -20,10 +20,10 @@ export default {
           100: "#F5F5F7",
           500: "#243B81",
         },
-        greyText:{
+        greyColor:{
           100: "#969494",
-          200:"#616161"
-
+          200:"#616161",
+          300:'#DDE1EF'
         },
         primaryColor: "#181929",
       },
