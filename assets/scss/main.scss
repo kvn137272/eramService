@@ -2,6 +2,14 @@
 @import "tailwindcss/components";
 @import "tailwindcss/utilities";
 
+
+@layer base{
+    h2{
+        @apply font-bold;
+    }
+  
+}
+
 @import "base/_reset";
 @import "base/_typography";
 @import "vue3-carousel/dist/carousel.css";

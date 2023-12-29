@@ -10,7 +10,7 @@
         </NuxtLink>
       </div>
     </div>
-    <div class="newProducts-main">
+    <div class="newProducts-main ">
       <div
         class="p-5 bg-white rounded-3xl flex-col shadow-lg xl:col-span-2 xl:row-span-6 lg:col-span-5 lg:row-span-2 md:col-span-5 sm:col-span-10 sm:row-span-1 "
       >
@@ -31,7 +31,6 @@
             class=" xl:w-72 lg:w-64  sm:h-64 sm:w-32 xs:h-52 mx-auto mt-9"
           />
         </div>
-        <div></div>
       </div>
       <div
         class="text-right shadow-lg p-5 xl:col-span-2 xl:row-span-2 lg:col-span-4 lg:row-span-1 md:col-span-5 md:row-span-1 sm:col-span-10 sm:row-span-1 sm:h-auto xs:h-[300px]  rounded-3xl relative overflow-y-hidden bg-black"
@@ -134,6 +133,6 @@
 }
 
 .newProducts-main {
-  @apply grid xl:grid-cols-6 xl:grid-rows-6 gap-3 lg:grid-cols-9 lg:grid-rows-2  md:grid-cols-10 md:grid-rows-3 sm:grid-cols-10 sm:grid-rows-5 xs:grid-rows-none xs:grid-cols-none;
+  @apply grid  xl:grid-cols-6 xl:grid-rows-6 gap-3 lg:grid-cols-9 lg:grid-rows-2  md:grid-cols-10 md:grid-rows-3 sm:grid-cols-10 sm:grid-rows-5 xs:grid-rows-none xs:grid-cols-none;
 }
 </style>

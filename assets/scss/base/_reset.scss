@@ -1,15 +1,15 @@
 * {
-  font-family: KalamehBold;
+  font-family: KalamehWebFaNum;
   box-sizing: border-box;
 }
 @font-face {
-  font-family: "KalamehBold";
-  src: url("https://db.onlinewebfonts.com/t/eba1f76fb362790bbfa2f7a343904394.eot");
-  src: url("https://db.onlinewebfonts.com/t/eba1f76fb362790bbfa2f7a343904394.eot?#iefix")format("embedded-opentype"),
-  url("https://db.onlinewebfonts.com/t/eba1f76fb362790bbfa2f7a343904394.woff2")format("woff2"),
-  url("https://db.onlinewebfonts.com/t/eba1f76fb362790bbfa2f7a343904394.woff")format("woff"),
-  url("https://db.onlinewebfonts.com/t/eba1f76fb362790bbfa2f7a343904394.ttf")format("truetype"),
-  url("https://db.onlinewebfonts.com/t/eba1f76fb362790bbfa2f7a343904394.svg#KalamehWebFaNum")format("svg");
+    font-family: "KalamehWebFaNum";
+    src: url("https://db.onlinewebfonts.com/t/eba1f76fb362790bbfa2f7a343904394.eot");
+    src: url("https://db.onlinewebfonts.com/t/eba1f76fb362790bbfa2f7a343904394.eot?#iefix")format("embedded-opentype"),
+    url("https://db.onlinewebfonts.com/t/eba1f76fb362790bbfa2f7a343904394.woff2")format("woff2"),
+    url("https://db.onlinewebfonts.com/t/eba1f76fb362790bbfa2f7a343904394.woff")format("woff"),
+    url("https://db.onlinewebfonts.com/t/eba1f76fb362790bbfa2f7a343904394.ttf")format("truetype"),
+    url("https://db.onlinewebfonts.com/t/eba1f76fb362790bbfa2f7a343904394.svg#KalamehWebFaNum")format("svg");
 }
 :root {
   background-color: theme("colors.blueColor.100");

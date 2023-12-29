@@ -5,5 +5,6 @@
     <the-slider/>
     <the-new-products/>
     <the-brands/>
+    <the-footer/>
   </div>
 </template>

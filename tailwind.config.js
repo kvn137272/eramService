@@ -48,6 +48,10 @@ export default {
     container: {
       center: true,
     },
-    plugins: [],
+    plugins:{
+      'postcss-import': {},
+      tailwindcss: {},
+      autoprefixer: {},
+    },
   },
 };

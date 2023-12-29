@@ -3,7 +3,7 @@ export default {
         'at-rule-no-unknown': [
             true,
             {
-                ignoreAtRules: ['tailwind']
+                ignoreAtRules: ['tailwind', 'apply', 'variants', 'responsive', 'screen']
             }
         ],
         'declaration-block-trailing-semicolon': null,
