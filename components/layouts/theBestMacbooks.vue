@@ -1,6 +1,6 @@
 <template>
   <section
-    class="mx-12 md:h-44 md:px-12 my-16 px-6 py-6 bg-black rounded-3xl flex justify-around"
+    class="mx-12 md:h-44 md:px-12 my-16 px-6 py-6 bg-black rounded-3xl flex justify-between"
   >
     <div class="flex flex-col justify-center gap-6">
       <h2 class="text-xl text-white font-light">
