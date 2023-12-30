@@ -7,6 +7,7 @@
     <the-brands/>
     <the-accessories/>
     <the-moment-offs/>
+    <the-filter-products/>
     <the-counseling-form/>
     <the-footer/>
   </div>
