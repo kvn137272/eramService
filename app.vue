@@ -5,6 +5,7 @@
     <the-slider/>
     <the-new-products/>
     <the-brands/>
+    <the-accessories/>
     <the-moment-offs/>
     <the-footer/>
   </div>

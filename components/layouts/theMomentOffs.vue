@@ -1,6 +1,6 @@
 <template>
   <section
-    class="lg:px-12 flex md:flex-row flex-col gap-3 items-center justify-between"
+    class="lg:px-12 flex md:flex-row flex-col gap-3 items-center justify-between mt-36"
   >
     <div class="w-80 bg-white p-5 rounded-xl">
       <NuxtLink to="#">
