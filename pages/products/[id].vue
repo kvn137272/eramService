@@ -1,8 +1,8 @@
 <template>
   <section class="product-wrapper flex lg:flex-row flex-col gap-16 mx-12">
-    <div class=" flex flex-col gap-6 lg:w-1/2 w-full bg-white">
+    <div class=" flex flex-col gap-6 lg:w-1/2 w-full ">
       <div
-        class="lg:h-28 flex md:flex-row flex-col justify-between gap-3 bg-white rounded-3xl p-5"
+        class="lg:h-28 bg-white flex md:flex-row flex-col justify-between gap-3  rounded-3xl p-5"
       >
         <div class="space-y-4">
           <p>آیفون 13 پرو مکس ظرفیت 128 گیگ</p>
@@ -68,7 +68,7 @@
           </svg>
         </div>
       </div>
-      <div class="flex flex-col h-[500px] rounded-3xl">
+      <div class="flex flex-col h-[500px] rounded-3xl bg-white">
         <div class="p-5">
           <div class="float-right m-auto md:w-1/2 w-full mb-3">
             <label for="activity" class="ml-2">وضعیت اکتیو:</label>
@@ -242,7 +242,7 @@
             />
           </div>
         </div>
-        <div class="flex gap-3 p-5 shadow-xl">
+        <div class="flex gap-3 p-5">
           <NuxtLink
             to="#"
             class="bg-blueColor-500 text-white py-2 rounded-lg px-5 text-sm"
