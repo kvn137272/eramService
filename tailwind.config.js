@@ -25,7 +25,8 @@ export default {
         greyColor:{
           100: "#969494",
           200:"#616161",
-          300:'#DDE1EF'
+          300:'#DDE1EF',
+          400:'#353535'
         },
         primaryColor: "#181929",
       },
