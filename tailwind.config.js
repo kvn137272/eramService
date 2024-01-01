@@ -19,6 +19,7 @@ export default {
         },
         blueColor: {
           100: "#F5F5F7",
+          200:"#F6F6F6",
           500: "#243B81",
         },
         greyColor:{
