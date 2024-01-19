@@ -12,23 +12,26 @@ export default {
   theme: {
     extend: {
       colors: {
-        black:"#090100",
-        whiteColor:{
-          50:"#E7E7E7",
-          100:"#FAFAFA"
+        black: "#090100",
+        whiteColor: {
+          50: "#E7E7E7",
+          100: "#FAFAFA"
         },
         blueColor: {
           100: "#F5F5F7",
-          200:"#F6F6F6",
+          200: "#F6F6F6",
           500: "#243B81",
         },
-        greyColor:{
+        greyColor: {
           100: "#969494",
-          200:"#616161",
-          300:'#DDE1EF',
-          400:'#353535'
+          200: "#616161",
+          300: '#DDE1EF',
+          400: '#353535'
         },
         primaryColor: "#181929",
+        redColor: {
+          200: '#E07D25'
+        }
       },
     },
     screens: {
@@ -51,7 +54,7 @@ export default {
     container: {
       center: true,
     },
-    plugins:{
+    plugins: {
       'postcss-import': {},
       tailwindcss: {},
       autoprefixer: {},

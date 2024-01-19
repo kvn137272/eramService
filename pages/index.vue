@@ -5,8 +5,6 @@
   <the-brands />
   <the-moment-offs />
   <the-best-macbooks />
-
-
 <text-editor/>
 </template>
 
